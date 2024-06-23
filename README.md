@@ -16,7 +16,7 @@ This repo contains related files
 THe code is trained in colab for 15 epochs. The training file is **S17.ipynb**
 Below are the training screenshots and the loss reached 2.955 in 15th epoch
 
-![training images]training_img.png
+![training images](training_img.png)
 
 
 
