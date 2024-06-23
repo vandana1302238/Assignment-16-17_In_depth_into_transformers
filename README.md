@@ -10,6 +10,7 @@ This repo contains related files
         dataset.py
         model.py
         train.py
+        s17.ipynb
 
 ## Results
 
